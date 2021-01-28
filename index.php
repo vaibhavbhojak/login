@@ -1,0 +1,3 @@
+<?php
+readfile('login.php');
+?>
