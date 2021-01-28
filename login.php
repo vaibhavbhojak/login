@@ -2,7 +2,7 @@
 <tittle>
 	</tittle>
 	<head>
-		<link rel="stylesheet" type="text/css" href="">
+		
 	</head>
 	<body>
 		<div>
@@ -19,6 +19,9 @@
 	</div>
 
 		<div>
+			<h1>register </h1>
+			<br>
+            <br>   
 		<form action="ragistration.php" method="post">
 			<label>username</label>
 			<input type="text" name="user">
